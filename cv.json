@@ -26,6 +26,7 @@
     {
       "name": "Banco Central de Cuba",
       "position": "Desarrollador Web",
+      "url": "https://www.bc.gob.cu/",
       "startDate": "11-01-2024",
       "endDate": null,
       "summary": "Desarrollador del Sistema de informatización Bancaria. Desarrollo de APIs Restful para aplicaciones internas de Banco Central. Monitoreo de datos de consumo de las APIs con Grafana. Desarrollo de interfaces de usuario para las aplicaciones webs internas del Banco.",
@@ -36,7 +37,7 @@
     {
       "name": "Habana COM-PAQ S.R.L.",
       "position": "Desarrollador y Supervisor de Procesos",
-      "url": "https://twitch.tv/midudev",
+      "url": "https://hcp.olaclick.menu/",
       "startDate": "01-11-2022",
       "endDate": "01-11-2023",
       "summary": "Desarrollo de entorno de trabajo basado en Excel para la gestion de pedidos, procesos de contabilidad y gestión de inventarios. Manejo de herramientas de Google para integración con tiendas virtuales.",
@@ -47,6 +48,7 @@
     {
       "name": "EMSI-FARMA S.R.L.",
       "position": "Lider del Equipo de Automatización",
+      "url": "https://emsifarma.com/",
       "startDate": "10-12-2019",
       "endDate": "10-05-2022",
       "summary": "Vinculación a la programación orientada a PLC. Desarrollo de proyectos de gran envergadura en el campo de la automatización de procesos farmacéuticos.",
@@ -69,7 +71,7 @@
   "education": [{
     "institution": "Universidad Tecnológica de la Habana.(CUJAE)",
     "area": "Ingeniero Eléctrico",
-    "studyType": "Ingeriero",
+    "studyType": "Ingenieria",
     "startDate": "2013-01-11",
     "endDate": "2018-01-01",
     "score": "4.0",
@@ -133,7 +135,7 @@
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "TailwindCSS",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
@@ -193,6 +195,55 @@
       "level": "Avanzado",
       "keywords": [
         "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Avanzado",
+      "keywords": [
+        "Contenedores", "virtualizacion", "sistema operativo", "maquinas virtuales"
+      ]
+    },
+    {
+      "name": "RabbitMQ",
+      "level": "Avanzado",
+      "keywords": [
+        "Mensajeria", "Asincronia", "Colas", "Producer", "Consumer"
+      ]
+    },
+    {
+      "name": "Postman",
+      "level": "Avanzado",
+      "keywords": [
+        "Testing", "Restful API", "Diseño"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Avanzado",
+      "keywords": [
+        "Testing", "Restful API", "Diseño"
+      ]
+    },
+    {
+      "name": "ASP.NET Core",
+      "level": "Avanzado",
+      "keywords": [
+        "ASP.NET", "WebAPI", "Backend", "OPP"
+      ]
+    },
+    {
+      "name": "MSSQL Server",
+      "level": "Avanzado",
+      "keywords": [
+        "ASP.NET", "WebAPI", "Backend", "OPP"
+      ]
+    },
+    {
+      "name": "Grafana",
+      "level": "Avanzado",
+      "keywords": [
+        "ASP.NET", "WebAPI", "Backend", "OPP"
       ]
     }
   ],
