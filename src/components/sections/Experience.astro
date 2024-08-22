@@ -42,7 +42,19 @@ import { work } from "@cv"
                 </header>
 
                 <footer>
-                  <p>{summary}</p>
+                    <ul>
+                        {
+                        summary.map((el) => {
+                            return (
+                                <li>
+                                    <p>
+                                        {`• ${el}`}
+                                    </p>
+                                </li>
+                            )
+                        })
+                        }
+                    </ul>
                 </footer>
               </article>
             </li>
@@ -57,7 +69,7 @@ import { work } from "@cv"
   ul {
     display: flex;
     flex-direction: column;
-    gap: 32px;
+    gap: 1rem;
   }
 
   article h3 {
@@ -90,6 +102,13 @@ import { work } from "@cv"
     font-size: 0.85rem;
     min-width: 102px;
     cursor: default;
+  }
+  footer {
+    padding-top: 1rem;
+    padding-left: 0.5rem;
+  }
+  footer ul {
+    gap: unset;
   }
 
   [data-title]:hover:after {

@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Daniel Andrés Hernández Pérez",
-    "label": "Full Stack Developer",
+    "label": "Desarrollador Full Stack",
     "image": "/me.webp",
     "email": "danieleverdale@gmail.com",
     "phone": "+53 59103583",
@@ -29,7 +29,12 @@
       "url": "https://www.bc.gob.cu/",
       "startDate": "11-01-2024",
       "endDate": null,
-      "summary": "Desarrollador del Sistema de informatización Bancaria. Desarrollo de APIs Restful para aplicaciones internas de Banco Central. Monitoreo de datos de consumo de las APIs con Grafana. Desarrollo de interfaces de usuario para las aplicaciones webs internas del Banco.",
+      "summary": [
+          "Creación de un sistema de monitoreo para aplicaciones críticas en producción, utilizando componentes de Grafana Labs, dando como resultado una mejor identificación de errores y anomalías, así como menores tiempos en la resolución de estos problemas.", 
+          "Para lograr uno de los mayores objetivos a corto plazo del equipo, que era contar con pipelines de CI/CD, se instaló un servicio Git autohospedado y se automatizaron los flujos de trabajo, mejorando los tiempos de compilación, construcción de imágenes, pruebas de integración y envío de aplicaciones robustas a producción en tiempos más cortos.",
+          "Para abordar la falta de pruebas en nuestros ciclos de desarrollo, surgió la iniciativa de crear pruebas de integración para todas las aplicaciones críticas que estaban en producción utilizando Postman, esto resultó directamente en una mejora significativa en la robustez y el tiempo de actividad de las aplicaciones en producción, convirtiéndose así en una necesidad para cada nueva aplicación creada."
+
+      ],
       "highlights": [
         "Started the company"
       ]
@@ -40,7 +45,10 @@
       "url": "https://hcp.olaclick.menu/",
       "startDate": "01-11-2022",
       "endDate": "01-11-2023",
-      "summary": "Desarrollo de entorno de trabajo basado en Excel para la gestion de pedidos, procesos de contabilidad y gestión de inventarios. Manejo de herramientas de Google para integración con tiendas virtuales.",
+      "summary": [
+          "Desarrollo de entorno de trabajo basado en Excel para la gestion de pedidos, procesos de contabilidad y gestión de inventarios",
+          "Manejo de herramientas de Google para integración con tiendas virtuales."
+      ],
       "highlights": [
         "Started the company"
       ]
@@ -51,7 +59,10 @@
       "url": "https://emsifarma.com/",
       "startDate": "10-12-2019",
       "endDate": "10-05-2022",
-      "summary": "Vinculación a la programación orientada a PLC. Desarrollo de proyectos de gran envergadura en el campo de la automatización de procesos farmacéuticos.",
+      "summary": [
+          "Vinculación a la programación orientada a PLC",
+          "Desarrollo de proyectos de gran envergadura en el campo de la automatización de procesos farmacéuticos"
+      ],
       "highlights": [
         "Started the company"
       ]
