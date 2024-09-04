@@ -1,17 +1,25 @@
 ---
 import Section from "../Section.astro"
 
-import { work } from "@cv"
+import type { Work } from "@/cv"
+
+interface Props {
+    title: string
+    work: Work[]
+}
+
+const { title, work } = Astro.props
+const es = Astro.currentLocale === "es" ? "Actual" : "Today"
 ---
 
-<Section title="Experiencia laboral">
+<Section title={title}>
   <ul>
     {
       work.map(
         ({ name, startDate, endDate, position, summary, highlights, url }) => {
           const startYear = new Date(startDate).getFullYear()
           const endYear =
-            endDate != null ? new Date(endDate).getFullYear() : "Actual"
+            endDate != null ? new Date(endDate).getFullYear() : es
 
           return (
             <li>

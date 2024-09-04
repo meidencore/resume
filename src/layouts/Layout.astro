@@ -1,17 +1,18 @@
 ---
-import { basics } from "@cv"
+import type { Basics } from "@/cv"
 
 interface Props {
-  title: string
+    title: string,
+    basics: Basics
 }
 
-const { title } = Astro.props
+const { title, basics } = Astro.props
 
 const { image, summary, url } = basics
 ---
 
 <!doctype html>
-<html lang="es">
+<html lang="en">
   <head>
     <meta charset="UTF-8" />
     <title>{title}</title>

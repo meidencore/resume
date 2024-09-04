@@ -4,9 +4,9 @@
     "baseUrl": ".",
     "paths": {
       "@cv_es": [
-        "./cv.json"
+        "./cv_spanish.json"
       ],
-      "@cv": [
+      "@cv_en": [
         "./cv_english.json"
       ],
       "@/*": [

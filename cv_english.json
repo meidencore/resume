@@ -6,7 +6,7 @@
     "email": "danieleverdale@gmail.com",
     "phone": "+53 59103583",
     "url": "https://meidencore.github.io",
-    "summary": "Full Stack Developer with experience in creating modern web applications using technologies such as React.js, Node.js and SQL/NoSQL databases. Specialized in scalable and optimized solutions to improve user experience. Focused on implementing agile practices and solving complex problems with efficient solutions.",
+    "summary": "Full Stack Developer with experience in creating modern web applications using technologies such as React.js, Node.js and Asp.Net Core. Specialized in scalable and optimized solutions to improve user experience. Focused on implementing best practices and solving complex problems with efficient solutions.",
     "location": {
       "address": "",
       "postalCode": "10400",
@@ -25,7 +25,7 @@
   "work": [
     {
       "name": "Banco Central de Cuba",
-      "position": "Desarrollador Web",
+      "position": "Fullstack Web Developer",
       "url": "https://www.bc.gob.cu/",
       "startDate": "11-01-2024",
       "endDate": null,
@@ -39,28 +39,14 @@
       ]
     },
     {
-      "name": "Habana COM-PAQ S.R.L.",
-      "position": "Desarrollador y Supervisor de Procesos",
-      "url": "https://hcp.olaclick.menu/",
+      "name": "Freelance",
+      "position": "Fullstack Web Developer",
+      "url": "https://meidencore-resume.onrender.com/",
       "startDate": "01-11-2022",
-      "endDate": "01-11-2023",
+      "endDate": null,
       "summary": [
           "Desarrollo de entorno de trabajo basado en Excel para la gestion de pedidos, procesos de contabilidad y gestión de inventarios",
           "Manejo de herramientas de Google para integración con tiendas virtuales."
-      ],
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "EMSI-FARMA S.R.L.",
-      "position": "Lider del Equipo de Automatización",
-      "url": "https://emsifarma.com/",
-      "startDate": "10-12-2019",
-      "endDate": "10-05-2022",
-      "summary": [
-          "Vinculación a la programación orientada a PLC",
-          "Desarrollo de proyectos de gran envergadura en el campo de la automatización de procesos farmacéuticos"
       ],
       "highlights": [
         "Started the company"
@@ -87,19 +73,6 @@
     "score": "4.0",
     "courses": [
       "DB1101 - Basic SQL"
-    ]
-  },
-  {
-    "institution": "Zero To Mastery Academy",
-    "area": "Desarrollo Web",
-    "studyType": "Course",
-    "startDate": "2023-09-01",
-    "endDate": "2023-09-01",
-    "score": "4.0",
-    "courses": [
-      "React.JS",
-      "Node.Js",
-      "Express.JS"
     ]
   }
   ],
@@ -152,24 +125,10 @@
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend"
       ]
     },
     {
@@ -180,10 +139,45 @@
       ]
     },
     {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Avanzado",
+      "keywords": [
+        "Testing", "Restful API", "Diseño"
+      ]
+    },
+    {
+      "name": "ASP.NET Core",
+      "level": "Avanzado",
+      "keywords": [
+        "ASP.NET", "WebAPI", "Backend", "OPP"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend"
+      ]
+    },
+    {
       "name": "PostgreSQL",
       "level": "Avanzado",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "MSSQL Server",
+      "level": "Avanzado",
+      "keywords": [
+        "ASP.NET", "WebAPI", "Backend", "OPP"
       ]
     },
     {
@@ -226,27 +220,6 @@
       "level": "Avanzado",
       "keywords": [
         "Testing", "Restful API", "Diseño"
-      ]
-    },
-    {
-      "name": "C#",
-      "level": "Avanzado",
-      "keywords": [
-        "Testing", "Restful API", "Diseño"
-      ]
-    },
-    {
-      "name": "ASP.NET Core",
-      "level": "Avanzado",
-      "keywords": [
-        "ASP.NET", "WebAPI", "Backend", "OPP"
-      ]
-    },
-    {
-      "name": "MSSQL Server",
-      "level": "Avanzado",
-      "keywords": [
-        "ASP.NET", "WebAPI", "Backend", "OPP"
       ]
     },
     {

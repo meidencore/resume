@@ -17,7 +17,6 @@ import Git from "@/icons/git.astro"
 import GitHub from "@/icons/GitHub.astro"
 import TailwindCSS from "@/icons/tailwind.astro"
 import Next from "@/icons/next.astro"
-import { skills } from "@cv"
 import Swift from "@/icons/swift.astro"
 import SwiftUI from "@/icons/swiftui.astro"
 import Kotlin from "@/icons/kotlin.astro"
@@ -26,6 +25,13 @@ import PostgreSQL from "@/icons/postgresql.astro"
 import MongoDB from "@/icons/mongodb.astro"
 import Python from "@/icons/python.astro"
 import Grafana from "@/icons/grafana.astro"
+
+import type { Skills } from "@/cv"
+
+interface Props {
+    title: string,
+    skills: Skills[]
+}
 
 const SKILLS_ICONS: Record<string, any> = {
   HTML,
@@ -54,9 +60,11 @@ const SKILLS_ICONS: Record<string, any> = {
   ['ASP.NET Core']: Aspnet,
   ['MSSQL Server']: Mssql,
 }
+
+const { title, skills } = Astro.props
 ---
 
-<Section title="Habilidades">
+<Section title={title}>
   <ul>
     {
       skills.map(({ name }) => {

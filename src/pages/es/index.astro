@@ -9,21 +9,21 @@ import Projects from "@/components/sections/Projects.astro"
 import Skills from "@/components/sections/Skills.astro"
 import KeyboardManager from "@/components/KeyboardManager.astro"
 
-import { basics } from "@cv_es"
-const { name, label } = basics
+import * as cv from "@cv_es"
+const { name, label } = cv.basics
 ---
 
-<Layout title={`Portafolio de ${name} - ${label}`}>
+<Layout title={`${name} - ${label}`} basics={cv.basics}>
   <main>
-    <Hero />
-    <About />
-    <Experience />
-    <Education />
-    <Projects />
-    <Skills />
+    <Hero basics={cv.basics}/>
+    <About title="Sobre mí" basics={cv.basics}/>
+    <Experience title="Experiencia Laboral" work={cv.work}/>
+    <Education title="Educación" education={cv.education}/>
+    <Projects title="Proyectos" bodyText={["See Live", "See code of the project"]} projects={cv.projects}/>
+    <Skills title="Habilidades" skills={cv.skills}/>
   </main>
 
-  <KeyboardManager />
+  <KeyboardManager basics={cv.basics}/>
 </Layout>
 
 <style>

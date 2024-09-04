@@ -6,7 +6,7 @@
     "email": "danieleverdale@gmail.com",
     "phone": "+53 59103583",
     "url": "https://meidencore.github.io",
-    "summary": "Desarrollador Full Stack con experiencia en creación de aplicaciones web modernas usando tecnologías como React.js, Node.js y base de datos SQL/NoSQL. Especializado en el de soluciones escalables y optimizadas para mejorar la experiencia del usuario. Enfocado en la implementación de prácticas ágiles y la resolución de problemas complejos con soluciones eficientes.",
+    "summary": "Desarrollador Full Stack con experiencia en creación de aplicaciones web modernas usando tecnologías como React.js, Node.js y Asp.Net Core. Especializado en el de soluciones escalables y optimizadas para mejorar la experiencia del usuario. Enfocado en la implementación de prácticas ágiles y la resolución de problemas complejos con soluciones eficientes.",
     "location": {
       "address": "",
       "postalCode": "10400",
@@ -31,7 +31,7 @@
       "endDate": null,
       "summary": [
           "Creación de un sistema de monitoreo para aplicaciones críticas en producción, utilizando componentes de Grafana Labs, dando como resultado una mejor identificación de errores y anomalías, así como menores tiempos en la resolución de estos problemas.", 
-          "Para lograr uno de los mayores objetivos a corto plazo del equipo, que era contar con pipelines de CI/CD, se instaló un servicio Git autohospedado y se automatizaron los flujos de trabajo, mejorando los tiempos de compilación, construcción de imágenes, pruebas de integración y envío de aplicaciones robustas a producción en tiempos más cortos.",
+          "Para lograr uno de los objetivos mas importantes a corto plazo del equipo, que era contar con pipelines de CI/CD, se instaló un servicio Git autohospedado y se automatizaron los flujos de trabajo, mejorando los tiempos de compilación, construcción de imágenes, pruebas de integración y envío de aplicaciones robustas a producción en tiempos más cortos.",
           "Para abordar la falta de pruebas en nuestros ciclos de desarrollo, surgió la iniciativa de crear pruebas de integración para todas las aplicaciones críticas que estaban en producción utilizando Postman, esto resultó directamente en una mejora significativa en la robustez y el tiempo de actividad de las aplicaciones en producción, convirtiéndose así en una necesidad para cada nueva aplicación creada."
 
       ],
@@ -153,24 +153,10 @@
       ]
     },
     {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
-      ]
-    },
-    {
       "name": "React",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend"
       ]
     },
     {
@@ -181,10 +167,45 @@
       ]
     },
     {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "C#",
+      "level": "Avanzado",
+      "keywords": [
+        "Testing", "Restful API", "Diseño"
+      ]
+    },
+    {
+      "name": "ASP.NET Core",
+      "level": "Avanzado",
+      "keywords": [
+        "ASP.NET", "WebAPI", "Backend", "OPP"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web", "Backend"
+      ]
+    },
+    {
       "name": "PostgreSQL",
       "level": "Avanzado",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+      ]
+    },
+    {
+      "name": "MSSQL Server",
+      "level": "Avanzado",
+      "keywords": [
+        "ASP.NET", "WebAPI", "Backend", "OPP"
       ]
     },
     {
@@ -227,27 +248,6 @@
       "level": "Avanzado",
       "keywords": [
         "Testing", "Restful API", "Diseño"
-      ]
-    },
-    {
-      "name": "C#",
-      "level": "Avanzado",
-      "keywords": [
-        "Testing", "Restful API", "Diseño"
-      ]
-    },
-    {
-      "name": "ASP.NET Core",
-      "level": "Avanzado",
-      "keywords": [
-        "ASP.NET", "WebAPI", "Backend", "OPP"
-      ]
-    },
-    {
-      "name": "MSSQL Server",
-      "level": "Avanzado",
-      "keywords": [
-        "ASP.NET", "WebAPI", "Backend", "OPP"
       ]
     },
     {
