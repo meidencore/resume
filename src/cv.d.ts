@@ -43,8 +43,8 @@ export interface Work {
   name: string
   position: string
   url: string
-  startDate: DateStr
-  endDate: DateStr | null
+  startDate: string 
+  endDate: srting | null
   summary: Array<string>
   highlights: Highlight
 }
@@ -91,11 +91,10 @@ export interface Publications {
 
 export interface Education {
   institution: string
-  url: string
   area: string
   studyType: string
-  startDate: DateStr
-  endDate: DateStr | null
+  startDate: string
+  endDate: string | null
   score: string
   courses: Array<string>
 }
@@ -142,4 +141,4 @@ export interface References {
   reference: string
 }
 
-type Highlight = Array<String>
+export type Highlight = Array<String>
