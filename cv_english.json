@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Daniel Andrés Hernández Pérez",
-    "label": "Full Stack Developer",
+    "label": "Fullstack Developer",
     "image": "/me.webp",
     "email": "danieleverdale@gmail.com",
     "phone": "+53 59103583",
     "url": "https://meidencore.github.io",
-    "summary": "Full Stack Developer with experience in creating modern web applications using technologies such as React.js, Node.js and Asp.Net Core. Specialized in scalable and optimized solutions to improve user experience. Focused on implementing best practices and solving complex problems with efficient solutions.",
+    "summary": "Fullstack Web Developer with experience in creating modern web applications using technologies such as React.js, Node.js and Asp.Net Core. Specialized in scalable and optimized solutions to improve user experience. Focused on implementing best practices and solving complex problems with efficient solutions.",
     "location": {
       "address": "",
       "postalCode": "10400",
@@ -30,9 +30,9 @@
       "startDate": "11-01-2024",
       "endDate": null,
       "summary": [
-          "Creation of a monitoring system for critical applications in production, using Grafana Labs components, resulting in better identification of errors and anomalies, as well as shorter times in resolving these problems.", 
-          "To achieve one of the team's biggest short-term goals, which was to have CI/CD pipelines, a self-hosted Git service was installed and workflows were automated, improving compilation times, image building, integration testing, and sending robust applications to production in shorter times.",
-          "To address the lack of testing in our development cycles, the initiative arose to create integration tests for all critical applications that were in production using Postman, this directly resulted in a significant improvement in the robustness and uptime of applications in production, thus becoming a necessity for every new application created."
+          "Developed a monitoring system for critical applications in production, using Grafana Labs, which allowed early identification of errors and anomalies, reducing resolution time by 75% and improving application stability", 
+          "Implemented a CI/CD system, including installing a self-hosted Git server and automating workflows, reducing the time to build, image, test integrations, and deliver robust applications to production ten times faster.",
+          "Led the development of integration tests for all critical applications in production, using Postman, resulting in a significant increase in the robustness and uptime of applications in production"
       ],
       "highlights": [
         "Started the company"
@@ -45,8 +45,8 @@
       "startDate": "01-11-2022",
       "endDate": null,
       "summary": [
-          "Desarrollo de entorno de trabajo basado en Excel para la gestion de pedidos, procesos de contabilidad y gestión de inventarios",
-          "Manejo de herramientas de Google para integración con tiendas virtuales."
+          "Developed an automated certificate generation system for a certificate authority, reducing processing time by 80% and allowing centralized access to certificates",
+          "Created multiple custom websites (landing pages and portfolios) for clients, improving their online presence and generating an increase of at least 20% in inquiries from potential clients"
       ],
       "highlights": [
         "Started the company"
@@ -255,9 +255,9 @@
     {
       "name": "Face Recognition Brain",
       "isActive": true,
-      "description": "Aplicación Web integrada a la API de Clarifai.com para el identificacion de rostros en fotos",
+      "description": "Web application integrated with the Clarifai.com API for identifying faces in photos",
       "highlights": [
-        "Integración con IA",
+        "IA Integration",
         "React.js",
         "Express.js",
         "PostgreSQL"
@@ -266,25 +266,11 @@
       "github": "https://github.com/meidencore/facerecognitionbrain"
     },
     {
-      "name": "Code Verifier",
-      "isActive": true,
-      "description": "Aplicación para resolver \"Katas\" de código para el aprendizaje",
-      "highlights": [
-        "En desarrollo",
-        "Retos para cualquier lenguaje",
-        "React.js",
-        "Express.js",
-        "MongoDB"
-      ],
-      "url": "https://github.com/meidencore/code-verifier-frontend",
-      "github": "https://github.com/meidencore/code-verifier-backend"
-    },
-    {
       "name": "FiRe Chat",
       "isActive": true,
-      "description": "A chat application made with React.Js and Firebase",
+      "description": "A demo chat application made with React.Js and Firebase",
       "highlights": [
-        "En desarrollo",
+        "In Development",
         "ChatApp",
         "Serverless"
       ],
@@ -294,16 +280,29 @@
     {
       "name": "Yari Rassi Portfolio",
       "isActive": true,
-      "description": "Página web para artista visual independiente",
+      "description": "Website for independent visual artist",
       "highlights": [
         "Portfolio"
       ],
       "url": "https://yarirassi.com/"
     },
     {
+      "name": "Code Verifier",
+      "isActive": true,
+      "description": "Application to solve code \"Katas\" for learning",
+      "highlights": [
+        "In Development",
+        "React.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      "url": "https://github.com/meidencore/code-verifier-frontend",
+      "github": "https://github.com/meidencore/code-verifier-backend"
+    },
+    {
       "name": "QRmaker",
       "isActive": true,
-      "description": "Bot de Telegram para generar codigos QR",
+      "description": "Telegram Bot for QR generation",
       "highlights": [
         "Telegram-Bot",
         "Python - Telegram-API"
@@ -314,7 +313,7 @@
     {
       "name": "Quote Generator",
       "isActive": true,
-      "description": "Generador de frases con integración directa a X",
+      "description": "Quote generator with X direct integration",
       "highlights": [
         "Vanilla.js",
         "Twitter-API"

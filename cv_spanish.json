@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Daniel Andrés Hernández Pérez",
-    "label": "Desarrollador Full Stack",
+    "label": "Desarrollador Fullstack",
     "image": "/me.webp",
     "email": "danieleverdale@gmail.com",
     "phone": "+53 59103583",
     "url": "https://meidencore.github.io",
-    "summary": "Desarrollador Full Stack con experiencia en creación de aplicaciones web modernas usando tecnologías como React.js, Node.js y Asp.Net Core. Especializado en el de soluciones escalables y optimizadas para mejorar la experiencia del usuario. Enfocado en la implementación de prácticas ágiles y la resolución de problemas complejos con soluciones eficientes.",
+    "summary": "Desarrollador Web Fullstack con experiencia en creación de aplicaciones web modernas usando tecnologías como React.js, Node.js y Asp.Net Core. Especializado en el de soluciones escalables y optimizadas para mejorar la experiencia del usuario. Enfocado en la implementación de prácticas ágiles y la resolución de problemas complejos con soluciones eficientes.",
     "location": {
       "address": "",
       "postalCode": "10400",
@@ -30,38 +30,23 @@
       "startDate": "11-01-2024",
       "endDate": null,
       "summary": [
-          "Creación de un sistema de monitoreo para aplicaciones críticas en producción, utilizando componentes de Grafana Labs, dando como resultado una mejor identificación de errores y anomalías, así como menores tiempos en la resolución de estos problemas.", 
-          "Para lograr uno de los objetivos mas importantes a corto plazo del equipo, que era contar con pipelines de CI/CD, se instaló un servicio Git autohospedado y se automatizaron los flujos de trabajo, mejorando los tiempos de compilación, construcción de imágenes, pruebas de integración y envío de aplicaciones robustas a producción en tiempos más cortos.",
-          "Para abordar la falta de pruebas en nuestros ciclos de desarrollo, surgió la iniciativa de crear pruebas de integración para todas las aplicaciones críticas que estaban en producción utilizando Postman, esto resultó directamente en una mejora significativa en la robustez y el tiempo de actividad de las aplicaciones en producción, convirtiéndose así en una necesidad para cada nueva aplicación creada."
-
+          "Desarrollé un sistema de monitoreo para aplicaciones críticas en producción, utilizando Grafana Labs, lo que permitió la identificación temprana de errores y anomalías, reduciendo el tiempo de resolución en un 75% y mejorando la estabilidad de las aplicaciones", 
+          "Implementé un sistema CI/CD, incluida la instalación de un servidor Git autohospedado y la automatización de flujos de trabajo, lo que redujo el tiempo de compilación, creación de imágenes, pruebas de integraciones y entrega de aplicaciones robustas a producción diez veces más rápido.",
+          "Lideré el desarrollo de pruebas de integración para todas las aplicaciones críticas en producción, utilizando Postman, lo que resultó en un aumento significativo en la robustez y tiempo de actividad de las aplicaciones en producción"
       ],
       "highlights": [
         "Started the company"
       ]
     },
     {
-      "name": "Habana COM-PAQ S.R.L.",
-      "position": "Desarrollador y Supervisor de Procesos",
-      "url": "https://hcp.olaclick.menu/",
+      "name": "Freelance",
+      "position": "Fullstack Web Developer",
+      "url": "https://meidencore-resume.onrender.com/",
       "startDate": "01-11-2022",
-      "endDate": "01-11-2023",
+      "endDate": null,
       "summary": [
-          "Desarrollo de entorno de trabajo basado en Excel para la gestion de pedidos, procesos de contabilidad y gestión de inventarios",
-          "Manejo de herramientas de Google para integración con tiendas virtuales."
-      ],
-      "highlights": [
-        "Started the company"
-      ]
-    },
-    {
-      "name": "EMSI-FARMA S.R.L.",
-      "position": "Lider del Equipo de Automatización",
-      "url": "https://emsifarma.com/",
-      "startDate": "10-12-2019",
-      "endDate": "10-05-2022",
-      "summary": [
-          "Vinculación a la programación orientada a PLC",
-          "Desarrollo de proyectos de gran envergadura en el campo de la automatización de procesos farmacéuticos"
+          "Desarrollé un sistema de generación de certificados automatizado para una autoridad certificadora, lo que redujo el tiempo de procesamiento en un 80% y permitió un acceso centralizado a los certificados",
+          "Creé múltiples sitios web personalizados (landing pages y portafolios) para clientes, mejorando su presencia online y generando un aumento de al menos un 20% en las consultas de potenciales clientes"
       ],
       "highlights": [
         "Started the company"
@@ -294,23 +279,9 @@
       "github": "https://github.com/meidencore/facerecognitionbrain"
     },
     {
-      "name": "Code Verifier",
-      "isActive": true,
-      "description": "Aplicación para resolver \"Katas\" de código para el aprendizaje",
-      "highlights": [
-        "En desarrollo",
-        "Retos para cualquier lenguaje",
-        "React.js",
-        "Express.js",
-        "MongoDB"
-      ],
-      "url": "https://github.com/meidencore/code-verifier-frontend",
-      "github": "https://github.com/meidencore/code-verifier-backend"
-    },
-    {
       "name": "FiRe Chat",
       "isActive": true,
-      "description": "A chat application made with React.Js and Firebase",
+      "description": "Aplicacion chat demo creada con React.Js y Firebase",
       "highlights": [
         "En desarrollo",
         "ChatApp",
@@ -327,6 +298,20 @@
         "Portfolio"
       ],
       "url": "https://yarirassi.com/"
+    },
+    {
+      "name": "Code Verifier",
+      "isActive": true,
+      "description": "Aplicación para resolver \"Katas\" de código para el aprendizaje",
+      "highlights": [
+        "En desarrollo",
+        "Retos para cualquier lenguaje",
+        "React.js",
+        "Express.js",
+        "MongoDB"
+      ],
+      "url": "https://github.com/meidencore/code-verifier-frontend",
+      "github": "https://github.com/meidencore/code-verifier-backend"
     },
     {
       "name": "QRmaker",
